@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Idil Dalli 👋
 
-<!--
-**idildalli/idildalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher in social psychology and cognitive science with interests in social identity, emotions, leadership, organizational behavior, and computational social science.
 
-Here are some ideas to get you started:
+## Education
+- MSc in Cognitive Science
+- BA in Sociology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Leadership
+- Social Identity
+- Emotions and Decision Making
+- Online Collective Behavior
+- Computational Social Science
+
+## Technical Skills
+- R
+- Python (currently learning)
+- Statistical Analysis
+- Survey Research
+- Text Analysis
+- Git & GitHub
+
+## Current Focus
+I'm building reproducible research projects and computational methods for behavioral science while preparing for a PhD in social psychology and organizational behavior.
+
+## Connect
+📧 idildalli18@gmail.com
